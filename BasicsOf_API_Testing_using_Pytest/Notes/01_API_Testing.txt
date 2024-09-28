@@ -1,0 +1,5 @@
+API Testing:
+
+Testing the APIs to check whether they are resulting in proper responses with
+different possible inputs.
+

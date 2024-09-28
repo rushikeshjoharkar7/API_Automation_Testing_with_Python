@@ -1,0 +1,24 @@
+Common Usage:
+
+The "python -m pytest -s" command is used to execute pytest tests with additional logging and debugging capabilities.
+
+
+Run all tests in the current directory:
+python -m pytest
+
+
+Run tests in a specific directory or file:
+python -m pytest tests/
+python -m pytest tests/test_my_module.py
+
+
+Run tests matching a specific pattern:
+python -m pytest -k "my_test"
+
+
+Run tests marked with a specific marker:
+python -m pytest -m "slow"
+
+
+Run tests with verbose output:
+python -m pytest -v

@@ -1,0 +1,27 @@
+ 1. Testing APIs will give you more test coverage than UI Testing.
+
+ 2. Earlier Testing.
+    - We can test way before UI is ready.
+    - Reduces the UI testing time.
+    - Agile Scrum methodology.
+
+3. Sample application but on different platforms use same APIs (No need to rework).
+    - Web UI
+    - Mobile UI
+    - Desktop UI
+
+4. Faster time to resolution.
+    - Directly report the defect regarding API end point instead of UI.
+
+5. Easier Test maintenance.
+    - APIs won't change like UI.
+
+6. Faster Testing.
+    - API Testing takes less time.
+    - No need to load any UI.
+    - API takes minutes while UI takes hours.
+
+7. Bypassing the UI Layers validations or restrictions.
+
+
+

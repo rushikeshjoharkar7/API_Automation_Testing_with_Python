@@ -1,0 +1,17 @@
+HTTP stands for hypertext transfer protocol response status codes indicate
+whether a specific HTTP request has been successfully completed.
+
+Responses are grouped in five classes:
+
+1. Informational responses (100 - 199)
+2. Successful responses (200- 299)
+    200 - OK
+
+3. Redirection responses (300 - 399)
+4. Client error responses (400 - 499)
+    1. 400 - Bad request
+    2. 401 - Unauthorized request
+    3. 403 - Forbidden
+    4. 404 - Not Found
+5. Server error responses (500 - 599)
+

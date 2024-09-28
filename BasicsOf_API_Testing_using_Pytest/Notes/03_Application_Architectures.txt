@@ -1,0 +1,43 @@
+There are two architectures of Application and that are :
+1. Monolithic :
+2. Microservice :
+
+
+1. Monolithic :
+
+
+        Application
+             |
+             |
+     Complete App code
+         Services
+
+
+    - Every feature is part of single code base
+    - Changes in one frame may produce side effects in other features
+    - Takes alot of time to do code changes as all the code of different features is together
+    - We are disturbing the existing features due to code changes
+    - Quick deployment is not possible due to above reasons.
+
+
+2. Microservice :
+
+               Application
+                    |
+      -----------------------------
+      |             |             |
+ Microservice   Microservice  Microservice
+
+
+    - What is a Microservice ?
+        - Breaks the large software applications into loosly coupled modules, which communicate
+          over API
+    - Micro-services architecture break down into a collection of smaller independent units
+      having separate logic, process, service and database.
+    - Communication between these independent units will happen over APIs
+    - Advantages :
+        1. Easy maintenance
+        2. Quick deployment
+        3. Not impacting other features
+
+

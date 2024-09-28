@@ -1,0 +1,6 @@
+API Automation using Python Requests Library
+
+1. pip install -U requests
+2. pip install -U pytest
+3. to practice APi testing, find open APIs using website : reqres.in and follow 01_test_Get_API.py to test the GET method
+4. follow 02_test_Post_API to test the POST method
